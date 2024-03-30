@@ -152,9 +152,6 @@ Congratulations! You have successfully installed and set up the Amharic AI Chatb
 
 ---
 
-These README files provide an overview of your Amharic AI chatbot project, including its features, requirements, installation instructions, usage guidelines, and troubleshooting tips. They will help users understand how to set up and interact with the chatbot on their Raspberry Pi.
-
-Feel free to customize and expand upon these README files based on your specific project details and requirements.
 
 Citations:
 [1] https://www.youtube.com/watch?v=8j8Q2Tn-kAY
