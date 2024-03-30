@@ -1,6 +1,6 @@
 
 Brought To you by Jonny Bonnany: BUILD BUILD BUILD 🕺
-# Amharic AI Chatbot on Raspberry Pi
+# Amharic AI Voice Chatbot on Raspberry Pi
 
 This project demonstrates how to create an Amharic AI chatbot that runs on a Raspberry Pi. It leverages Google Speech-to-Text for transcribing Amharic speech, Anthropic's Claude API for generating Amharic responses, and Google Text-to-Speech for synthesizing the responses into speech.
 
